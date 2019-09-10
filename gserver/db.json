@@ -1,0 +1,12 @@
+{
+  "players": [
+    {"id":"23","firstName": "Michael", "age":55, "teamId":"1"},
+    {"id":"8","firstName": "Jalen", "age":45, "team":"2"},
+    {"id":"12","firstName": "Jason", "age":35, "team":"3"}
+  ],
+  "teams": [
+    {"id": "1", "name": "North Carolina", "description": "Tar Heels"},
+    {"id": "2", "name": "Michigan", "description": "Wolverines"},
+    {"id": "3", "name": "California", "description": "Bears"}
+  ]
+}
